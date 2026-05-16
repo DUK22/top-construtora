@@ -164,7 +164,7 @@ p {
     color: #ffffff;
     display: grid;
     grid-template-rows: auto 1fr auto;
-    min-height: 88svh;
+    min-height: 94svh;
     position: relative;
 }
 
@@ -730,7 +730,7 @@ p {
     }
 
     .hero {
-        min-height: 84svh;
+        min-height: 90svh;
     }
 
     .nav-container {
